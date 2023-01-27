@@ -1,0 +1,22 @@
+{
+    "name": "frontend-project-12",
+    "version": "1.0.0",
+    "description": "Chat app lika a Slack",
+    "main": "index.ts",
+    "scripts": {
+        "test": "jest ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ToLive/frontend-project-12.git"
+    },
+    "author": "Sergey Grabak",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ToLive/frontend-project-12/issues"
+    },
+    "homepage": "https://github.com/ToLive/frontend-project-12#readme",
+    "dependencies": {
+        "@hexlet/chat-server": "^1.1.6"
+    }
+}
