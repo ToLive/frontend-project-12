@@ -18,6 +18,8 @@
     },
     "homepage": "https://github.com/ToLive/frontend-project-12#readme",
     "dependencies": {
-        "@hexlet/chat-server": "^1.1.6"
+        "@hexlet/chat-server": "^1.1.6",
+        "bootstrap": "^5.2.3",
+        "react-bootstrap": "^2.7.0"
     }
 }
